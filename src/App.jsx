@@ -8,9 +8,7 @@ function App() {
   return (
     <Container maxWidth="lg">
       <CssBaseline />
-      <Typography variant="h3" component="h3">
-        Profile Mapping App
-      </Typography>
+
       <ProfileList />
     </Container>
   );
